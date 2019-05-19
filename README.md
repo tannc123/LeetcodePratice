@@ -1,6 +1,6 @@
 # LeetcodePratice
 互联网公司常见算法面试题
-+数组：
++ 数组：
 	1.最佳观光组合 			_01_MaxCoreSightseeingPair
 	2.最大子序和				_02_MaxSubArray
 	3.最长重复子数组			_03_LongestRepeatArr
